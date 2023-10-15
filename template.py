@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 nome_do_projeto="resumirTexto"
 
 lista_de_arqivos=[
-    '.github.com/worflows/.gitkeep', # Este arquivo é necessário para o github actions
+    '.github/worflows/.gitkeep', # Este arquivo é necessário para o github actions
 
     f'src/{nome_do_projeto}/__init__.py', # É  pasta onde está o projeto em si.
 
