@@ -31,6 +31,8 @@ lista_de_arqivos=[
 
     f'src/{nome_do_projeto}/pipeline/__init__.py',
 
+    f'src/{nome_do_projeto}/logging/__init__.py',
+
     f'src/{nome_do_projeto}/entidades/__init__.py',
 
     f'src/{nome_do_projeto}/constantes/__init__.py',

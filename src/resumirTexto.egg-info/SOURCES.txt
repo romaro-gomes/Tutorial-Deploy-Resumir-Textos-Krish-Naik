@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/resumirTexto/__init__.py
+src/resumirTexto.egg-info/PKG-INFO
+src/resumirTexto.egg-info/SOURCES.txt
+src/resumirTexto.egg-info/dependency_links.txt
+src/resumirTexto.egg-info/top_level.txt
+src/resumirTexto/componentes/__init__.py
+src/resumirTexto/config/__init__.py
+src/resumirTexto/config/configuracao.py
+src/resumirTexto/constantes/__init__.py
+src/resumirTexto/entidades/__init__.py
+src/resumirTexto/pipeline/__init__.py
+src/resumirTexto/utilitarios/__init__.py
+src/resumirTexto/utilitarios/comum.py
